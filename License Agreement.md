@@ -1,6 +1,9 @@
-# ODBIT COPYRIGHT | LICENSE AGREEMENT
+# Agreement .md File
 
-# ODBIT WEBSITE AND SERVICES
+
+ODBIT COPYRIGHT | LICENSE AGREEMENT
+
+ODBIT WEBSITE AND SERVICES
 
 ------------------------------------------------------------------------------------------------
 
@@ -24,9 +27,9 @@ SOFTWARE.
 
 ------------------------------------------------------------------------------------------------
 
-# Copyright: OSCR - ODBIT Division © 2025-2026. All rights reserved.
+Copyright: OSCR - ODBIT Division © 2025-2026. All rights reserved.
 
-# Contact Info
+Contact Info
 
 Text Options:
 Discord
